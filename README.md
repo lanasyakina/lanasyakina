@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lanasyakina
+Hi, there! 👋 
+I’m Lana Syakina
 - 👀 I’m interested in data science and operation research
 - 🌱 I’m currently learning Python and SQL
 
