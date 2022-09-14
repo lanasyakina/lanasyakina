@@ -1,6 +1,6 @@
 Hi, there! 👋 
 I’m Lana Syakina
-- 👀 I’m interested in data science and operation research
+- 👀 I’m interested in data science and operations research
 - 🌱 I’m currently learning Python and SQL
 
 <!---
